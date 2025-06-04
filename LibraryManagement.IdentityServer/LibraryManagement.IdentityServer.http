@@ -1,6 +1,0 @@
-@LibraryManagement.IdentityServer_HostAddress = http://localhost:5240
-
-GET {{LibraryManagement.IdentityServer_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
